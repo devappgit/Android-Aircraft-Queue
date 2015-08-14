@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AirCraft Manager</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="system_boot">System boot</string>
+    <string name="dequeue">Retrieve next AC</string>
+    <string name="enqueue">Add AirCraft</string>
+    <string-array name="aircraft_names">
+        <item>Large Cargo Aircraft</item>
+        <item>Small Cargo Aircraft</item>
+        <item>Large Passenger Aircraft</item>
+        <item>Small Passenger Aircraft</item>
+    </string-array>
+
+    <string-array name="aircraft_images">
+        <item>@drawable/cargo_large</item>
+        <item>@drawable/cargo_small</item>
+        <item>@drawable/passenger_large</item>
+        <item>@drawable/passenger_small</item>
+    </string-array>
+
+</resources>
